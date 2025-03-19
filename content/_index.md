@@ -35,11 +35,17 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a PhD student in Information and Communication Technologies at the University of Calabria, Italy. My research focuses on optimizing the performance of machine learning applications on Big Data. I apply both qualitative and quantitative methods to investigate the role of advanced technologies in enhancing data analysis and processing.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I have contributed to several projects, including:
+
+            Enhancing Cryptocurrency Price Forecasting: Integrating machine learning with social media and market data to improve prediction accuracy.
+
+             Multi-dimensional Classification on Social Media Data: Utilizing large language models for detailed reporting and analysis of social media content.
+
+             Unmasking Deception on Social Media: Developing multimodal approaches to detect false information on social platforms.
+
+        I am passionate about leveraging advanced technologies to address complex problems and am committed to contributing to the academic and research community. Please reach out to collaborate!😃
     design:
       columns: '1'
   - block: collection
