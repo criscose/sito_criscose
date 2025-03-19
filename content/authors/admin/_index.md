@@ -3,7 +3,7 @@
 title: Cristian Cosentino
 
 # Name pronunciation (optional)
-name_pronunciation: Phd Student
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Cristian
@@ -11,7 +11,7 @@ last_name: Cosentino
 
 # Status emoji
 status:
-  icon: ☕️⛺️⚽
+  icon: ⛺️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +20,184 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Phd Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Università della Calabria
+    url: https://www.unical.it/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ccosentino@unical.it'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/criscose_/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/criscose
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/cristian-cosentino-a1751b1b9/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=IsiGvNgAAAAJ&hl=it&oi=sra
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0002-6368-373X
 
 interests:
+  - Big Data Analysis
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Distributed Systems
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Information and Communication Technologies
+    institution: University of Calabria
+    date_start: 2022-11-01
+    date_end: 2025-10-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Research focused on optimizing the performance of machine learning applications on Big Data. Supervised by [Prof. Fabrizio Marozzo](https://dottorato.dimes.unical.it/students/cristian-cosentino). For more details, visit my [personal website](https://scalab.dimes.unical.it/cosentino/).
+  - area: MEng in Computer Engineering (Artificial Intelligence and Machine Learning)
+    institution: University of Calabria
+    date_start: 2020-10-15
+    date_end: 2022-09-16
     summary: |
-      GPA: 3.8/4.0
+      Final Grade: 110/110 cum laude + Percorso delle Eccellenze UNICAL
+      Thesis: Comparative analysis of frameworks for distributed computing through machine learning applications
+  - area: BSc in Computer Engineering
+    institution: University of Calabria
+    date_start: 2017-10-15
+    date_end: 2020-07-28
+    summary: |
+      Acquired foundational knowledge in computer engineering, laying the groundwork for advanced studies in artificial intelligence and machine learning.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Visiting Researcher
+    company_name: University of Cambridge
+    company_url: 'https://www.cam.ac.uk/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+    summary: |
+      Collaborating with university faculty and industry partners on scientific research projects.
+  - position: University Lecturer
+    company_name: University of Calabria
+    company_url: 'https://www.unical.it/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-03-01
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Delivering lectures and tutorials
+      - Conducting oral exams and assessments
+      - Supervising theses and research projects
+  - position: Professional Training Instructor
+    company_name: Kinetikon
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-08-08
+    date_end: ''
+    summary: |
+      Teaching courses on:
+      - Python
+      - Machine Learning
+      - Big Data
+      - Computer Vision
+      - Data Analysis
+      - Large Language Models
+  - position: Web Developer
+    company_name: Hydra Solutions
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-06-01
+    date_end: 2022-06-30
+    summary: |
+      Responsibilities included:
+      - Developing web applications using Laravel, PHP, Angular, and React Native
+      - Developing Alexa skills
+      - Maintaining Java software
+      - Managing server maintenance
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: 'Proficient in developing machine learning and data analysis applications.'
+        percent: 90
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Machine Learning
+        description: 'Experienced in designing and implementing machine learning models for various applications.'
+        percent: 85
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: Big Data Frameworks
+        description: 'Skilled in using frameworks like Hadoop and Spark for distributed computing.'
         percent: 80
-        icon: camera
+        icon: circle-stack
+      - name: Web Development
+        description: 'Competent in developing web applications using modern frameworks and technologies.'
+        percent: 75
+        icon: code-tags
 
 languages:
-  - name: English
+  - name: Italian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 85
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Percorso delle Eccellenze UNICAL
+    date: '2022-05-31'
+    awarder: University of Calabria
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+      Participated in an excellence program for additional training for the most deserving students of the DIMES department.
+
+publications:
+  - title: Enhancing Cryptocurrency Price Forecasting by Integrating Machine Learning with Social Media and Market Data
+    authors: L. Belcastro, D. Carbone, C. Cosentino, F. Marozzo, P. Trunfio
+    journal: Algorithms
+    volume: 16
+    issue: 12
+    pages: 542
+    year: 2023
+    url: 'https://www.mdpi.com/1999-4893/16/12/542'
+  - title: Unmasking COVID-19 False Information on Twitter: A Topic-Based Approach with BERT
+    authors: R. Cantini, C. Cosentino, I. Kilanioti, F. Marozzo, D. Talia
+    conference: International Conference on Discovery Science
+    pages: 126-140
+    year: 2023
+    url: 'https://link.springer.com/chapter/10.1007/978-3-031-20914-8_9'
+  - title: Multi-dimensional Classification on Social Media Data for Detailed Reporting with Large Language Models
+    authors: R. Cantini, C. Cosentino, F. Marozzo
+    conference: IFIP International Conference on Artificial Intelligence Applications and Innovations
+    pages: 3-18
+    year: 2024
+    url: 'https://link.springer.com/chapter/10.1007/978-3-031-28241-7_1'
+  - title: Infrastructures for High-Performance Computing: Cloud Infrastructures
+    authors: L. Belcastro, C. Cosentino, F. Marozzo
+    publisher: Elsevier
+    year: 2024
+    url: 'https://www.elsevier.com/books/infrastructures-for-high-performance-computing/9780128196376'
+  - title: Unmasking Deception: A Topic-Oriented Multimodal Approach to Uncover False Information on Social Media
+    authors: R. Cantini, C. Cosentino, I. Kilanioti, F. Marozzo, D. Talia
+    journal: Machine Learning
+    volume: 114
+    issue: 1
+    pages: 13
+    year: 2025
+    url: 'https://link.springer.com/article/10.1007/s10994-024-06145-1'
+  - title: Harnessing Prompt-Based Large Language Models for Disaster Monitoring and Automated Reporting from Social Media Feedback
+    authors: R. Cantini, C. Cosentino, F. Marozzo, D. Talia, P. Trunfio
+    journal: Online Social Networks and Media
+    volume: 45
+    pages: 100295
+    year: 2025
+    url: 'https://www.sciencedirect.com/science/article/pii/S2468696423000285'
+  - title: Exploiting Large Language Models for Enhanced Review Classification Explanations Through Interpretable and Multidimensional Analysis
+    authors: C. Cosentino, M. Gündüz-Cüre, F.
+::contentReference[oaicite:0]{index=0}
+ 
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in Information and Communication Technologies (ICT) at the University of Calabria, Italy, specializing in Big Data analysis, Artificial Intelligence, and Distributed Systems. My research focuses on optimizing the performance of machine learning applications on Big Data. I have contributed to several projects, including enhancing cryptocurrency price forecasting by integrating machine learning with social media and market data, multi-dimensional classification on social media data using large language models, and developing multimodal approaches to detect false information on social media. In addition to my research, I serve as a university lecturer at the University of Calabria and collaborate as a visiting researcher at the University of Cambridge. I am passionate about leveraging advanced technologies to address complex problems and am committed to contributing to the academic and research community.
