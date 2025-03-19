@@ -51,6 +51,7 @@ interests:
   - Artificial Intelligence
   - Distributed Systems
 
+
 education:
   - area: PhD in Information and Communication Technologies
     institution: University of Calabria
@@ -72,11 +73,11 @@ education:
     summary: |
       Acquired foundational knowledge in computer engineering, laying the groundwork for advanced studies in artificial intelligence and machine learning.
 
+
 work:
   - position: Visiting Researcher
     company_name: University of Cambridge
     company_url: 'https://www.cam.ac.uk/'
-    company_logo: ''
     date_start: 2024-09-01
     date_end: ''
     summary: |
@@ -84,7 +85,6 @@ work:
   - position: University Lecturer
     company_name: University of Calabria
     company_url: 'https://www.unical.it/'
-    company_logo: ''
     date_start: 2023-03-01
     date_end: ''
     summary: |
@@ -94,8 +94,6 @@ work:
       - Supervising theses and research projects
   - position: Professional Training Instructor
     company_name: Kinetikon
-    company_url: ''
-    company_logo: ''
     date_start: 2023-08-08
     date_end: ''
     summary: |
@@ -108,8 +106,6 @@ work:
       - Large Language Models
   - position: Web Developer
     company_name: Hydra Solutions
-    company_url: ''
-    company_logo: ''
     date_start: 2020-06-01
     date_end: 2022-06-30
     summary: |
@@ -118,7 +114,8 @@ work:
       - Developing Alexa skills
       - Maintaining Java software
       - Managing server maintenance
-
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -145,12 +142,17 @@ languages:
   - name: English
     percent: 85
 
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Percorso delle Eccellenze UNICAL
     date: '2022-05-31'
     awarder: University of Calabria
     summary: |
       Participated in an excellence program for additional training for the most deserving students of the DIMES department.
+
 
 publications:
   - title: Enhancing Cryptocurrency Price Forecasting by Integrating Machine Learning with Social Media and Market Data
@@ -194,10 +196,20 @@ publications:
     year: 2025
     url: 'https://www.sciencedirect.com/science/article/pii/S2468696423000285'
   - title: Exploiting Large Language Models for Enhanced Review Classification Explanations Through Interpretable and Multidimensional Analysis
-    authors: C. Cosentino, M. Gündüz-Cüre, F.
-::contentReference[oaicite:0]{index=0}
- 
+    authors: C. Cosentino, M. Gündüz-Cüre, F. Marozzo, Ş. Öztürk-Birim
+    conference: International Conference on Discovery Science
+    pages: 3-18
+    year: 2024
+    url: 'https://link.springer.com/chapter/10.1007/978-3-031-28241-7_1'
+  - title: Infrastructures for High-Performance Computing: Cloud Computing Development Environments
+    authors: C. Cosentino, F. Marozzo, P. Trunfio
+    publisher: Elsevier
+    year: 2024
+    url: 'https://www.elsevier.com/books/infrastructures-for-high-performance-computing/9780128196376'
 
+---
 ## About Me
 
 I am a PhD student in Information and Communication Technologies (ICT) at the University of Calabria, Italy, specializing in Big Data analysis, Artificial Intelligence, and Distributed Systems. My research focuses on optimizing the performance of machine learning applications on Big Data. I have contributed to several projects, including enhancing cryptocurrency price forecasting by integrating machine learning with social media and market data, multi-dimensional classification on social media data using large language models, and developing multimodal approaches to detect false information on social media. In addition to my research, I serve as a university lecturer at the University of Calabria and collaborate as a visiting researcher at the University of Cambridge. I am passionate about leveraging advanced technologies to address complex problems and am committed to contributing to the academic and research community.
+
+--
