@@ -140,58 +140,6 @@ awards:
       Participated in an excellence program for additional training for the most deserving students of the DIMES department.
 
 
-publications:
-  - title: Enhancing Cryptocurrency Price Forecasting by Integrating Machine Learning with Social Media and Market Data
-    authors: L. Belcastro, D. Carbone, C. Cosentino, F. Marozzo, P. Trunfio
-    journal: Algorithms
-    volume: 16
-    issue: 12
-    pages: 542
-    year: 2023
-    url: 'https://www.mdpi.com/1999-4893/16/12/542'
-  - title: Unmasking COVID-19 False Information on Twitter: A Topic-Based Approach with BERT
-    authors: R. Cantini, C. Cosentino, I. Kilanioti, F. Marozzo, D. Talia
-    conference: International Conference on Discovery Science
-    pages: 126-140
-    year: 2023
-    url: 'https://link.springer.com/chapter/10.1007/978-3-031-20914-8_9'
-  - title: Multi-dimensional Classification on Social Media Data for Detailed Reporting with Large Language Models
-    authors: R. Cantini, C. Cosentino, F. Marozzo
-    conference: IFIP International Conference on Artificial Intelligence Applications and Innovations
-    pages: 3-18
-    year: 2024
-    url: 'https://link.springer.com/chapter/10.1007/978-3-031-28241-7_1'
-  - title: Infrastructures for High-Performance Computing: Cloud Infrastructures
-    authors: L. Belcastro, C. Cosentino, F. Marozzo
-    publisher: Elsevier
-    year: 2024
-    url: 'https://www.elsevier.com/books/infrastructures-for-high-performance-computing/9780128196376'
-  - title: Unmasking Deception: A Topic-Oriented Multimodal Approach to Uncover False Information on Social Media
-    authors: R. Cantini, C. Cosentino, I. Kilanioti, F. Marozzo, D. Talia
-    journal: Machine Learning
-    volume: 114
-    issue: 1
-    pages: 13
-    year: 2025
-    url: 'https://link.springer.com/article/10.1007/s10994-024-06145-1'
-  - title: Harnessing Prompt-Based Large Language Models for Disaster Monitoring and Automated Reporting from Social Media Feedback
-    authors: R. Cantini, C. Cosentino, F. Marozzo, D. Talia, P. Trunfio
-    journal: Online Social Networks and Media
-    volume: 45
-    pages: 100295
-    year: 2025
-    url: 'https://www.sciencedirect.com/science/article/pii/S2468696423000285'
-  - title: Exploiting Large Language Models for Enhanced Review Classification Explanations Through Interpretable and Multidimensional Analysis
-    authors: C. Cosentino, M. Gündüz-Cüre, F. Marozzo, Ş. Öztürk-Birim
-    conference: International Conference on Discovery Science
-    pages: 3-18
-    year: 2024
-    url: 'https://link.springer.com/chapter/10.1007/978-3-031-28241-7_1'
-  - title: Infrastructures for High-Performance Computing: Cloud Computing Development Environments
-    authors: C. Cosentino, F. Marozzo, P. Trunfio
-    publisher: Elsevier
-    year: 2024
-    url: 'https://www.elsevier.com/books/infrastructures-for-high-performance-computing/9780128196376'
 
 ---
 ## About Me
