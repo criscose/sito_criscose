@@ -75,45 +75,31 @@ education:
 
 
 work:
-  - position: Visiting Researcher
-    company_name: University of Cambridge
-    company_url: 'https://www.cam.ac.uk/'
-    date_start: 2024-09-01
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
     date_end: ''
-    summary: |
-      Collaborating with university faculty and industry partners on scientific research projects.
-  - position: University Lecturer
-    company_name: University of Calabria
-    company_url: 'https://www.unical.it/'
-    date_start: 2023-03-01
-    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Delivering lectures and tutorials
-      - Conducting oral exams and assessments
-      - Supervising theses and research projects
-  - position: Professional Training Instructor
-    company_name: Kinetikon
-    date_start: 2023-08-08
-    date_end: ''
-    summary: |
-      Teaching courses on:
-      - Python
-      - Machine Learning
-      - Big Data
-      - Computer Vision
-      - Data Analysis
-      - Large Language Models
-  - position: Web Developer
-    company_name: Hydra Solutions
-    date_start: 2020-06-01
-    date_end: 2022-06-30
-    summary: |
-      Responsibilities included:
-      - Developing web applications using Laravel, PHP, Angular, and React Native
-      - Developing Alexa skills
-      - Maintaining Java software
-      - Managing server maintenance
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
